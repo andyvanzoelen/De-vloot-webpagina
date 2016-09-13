@@ -1,0 +1,125 @@
+*{
+	padding:0;
+	margin: 0;
+}
+body {
+	background-image: url(bg.png);
+	background-size: auto;
+	background-repeat: repeat-x;
+	font-family: sans-serif;
+
+	
+}
+
+ul.top-menu li {
+	display: inline-block;
+	text-decoration: none;
+	margin-top: 150px;
+
+} 
+
+img.top-left {
+	margin: 10px;
+	float: left;
+
+}
+
+h1 {
+
+}
+
+
+p.begin {
+	margin: 2px auto;
+	display: inline-block;
+	padding: 50px;
+	border: 1px solid white;
+	background-color: white;
+	width: 600px;
+
+}
+
+header {
+	background-image: url(header.jpg);
+	width: 800px;
+	height: 272px;
+	margin: 0 auto;
+}
+
+div.paragraph {
+	width: 780px;
+	margin: 0 auto;
+	background-color: white;
+	text-decoration: none;
+	padding: 0 10px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	margin: 10px;
+	font-size: 13px;
+
+}
+
+img.vloot1 {
+	width: 300px;
+	height: 208px;
+	float: left;
+	margin: 15px;
+}
+
+img.vloot2 {
+	float: right;
+	margin: 15px;
+}
+
+img.vloot3 {
+	float: left;
+	margin: 15px;
+}
+
+img.vloot4 {
+	width: 234px;
+	height: 234px;
+	float: left;
+	margin: 15px;
+}
+
+img.vloot5 {
+	width: 200px;
+	height: 143px;
+	margin: 15px;
+	float: left;
+}
+
+img.vloot6 {
+	width: 200px;
+	height: 143px;
+	float: right;
+	margin: 15px;
+}
+
+img.vloot7 {
+	float: left;
+	margin: 15px;
+}
+
+img.vloot8 {
+	float: left;
+	margin: 15px;
+}
+
+img.vloot9 {
+	float: left;
+	margin: 15px;
+	width: 200px;
+	height: 150px;
+}
+
+img.vloot10 {
+	float: right;
+	margin: 15px;
+	width: 200px;
+	height: 150px;
+}
